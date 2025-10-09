@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|c:\\users\\praveengouda r\\source\\repos\\employeetimetracker\\employeetimetracker\\utils\\piechartgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|solutionrelative:employeetimetracker\\utils\\piechartgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|c:\\users\\praveengouda r\\source\\repos\\employeetimetracker\\employeetimetracker\\services\\timeentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|solutionrelative:employeetimetracker\\services\\timeentryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|c:\\users\\praveengouda r\\source\\repos\\employeetimetracker\\employeetimetracker\\models\\employeeworksummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|solutionrelative:employeetimetracker\\models\\employeeworksummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|c:\\users\\praveengouda r\\source\\repos\\employeetimetracker\\employeetimetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|solutionrelative:employeetimetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|c:\\users\\praveengouda r\\source\\repos\\employeetimetracker\\employeetimetracker\\utils\\htmlreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|solutionrelative:employeetimetracker\\utils\\htmlreportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|c:\\users\\praveengouda r\\source\\repos\\employeetimetracker\\employeetimetracker\\models\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F03B4E-CE62-4207-97CA-048048978CE8}|EmployeeTimeTracker\\EmployeeTimeTracker.csproj|solutionrelative:employeetimetracker\\models\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Models\\TimeEntry.cs",
+              "RelativeDocumentMoniker": "EmployeeTimeTracker\\Models\\TimeEntry.cs",
+              "ToolTip": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Models\\TimeEntry.cs",
+              "RelativeToolTip": "EmployeeTimeTracker\\Models\\TimeEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:38:50.605Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeWorkSummary.cs",
+              "DocumentMoniker": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Models\\EmployeeWorkSummary.cs",
+              "RelativeDocumentMoniker": "EmployeeTimeTracker\\Models\\EmployeeWorkSummary.cs",
+              "ToolTip": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Models\\EmployeeWorkSummary.cs",
+              "RelativeToolTip": "EmployeeTimeTracker\\Models\\EmployeeWorkSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:39:47.435Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeEntryService.cs",
+              "DocumentMoniker": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Services\\TimeEntryService.cs",
+              "RelativeDocumentMoniker": "EmployeeTimeTracker\\Services\\TimeEntryService.cs",
+              "ToolTip": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Services\\TimeEntryService.cs",
+              "RelativeToolTip": "EmployeeTimeTracker\\Services\\TimeEntryService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:40:38.905Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HtmlReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Utils\\HtmlReportGenerator.cs",
+              "RelativeDocumentMoniker": "EmployeeTimeTracker\\Utils\\HtmlReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Utils\\HtmlReportGenerator.cs",
+              "RelativeToolTip": "EmployeeTimeTracker\\Utils\\HtmlReportGenerator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:41:06.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PieChartGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Utils\\PieChartGenerator.cs",
+              "RelativeDocumentMoniker": "EmployeeTimeTracker\\Utils\\PieChartGenerator.cs",
+              "ToolTip": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Utils\\PieChartGenerator.cs",
+              "RelativeToolTip": "EmployeeTimeTracker\\Utils\\PieChartGenerator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:41:23.201Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeTimeTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\Program.cs",
+              "RelativeToolTip": "EmployeeTimeTracker\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T15:36:51.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

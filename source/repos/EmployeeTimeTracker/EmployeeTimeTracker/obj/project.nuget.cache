@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WCYM94Qxps=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Praveengouda R\\source\\repos\\EmployeeTimeTracker\\EmployeeTimeTracker\\EmployeeTimeTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praveengouda R\\.nuget\\packages\\skiasharp\\3.119.1\\skiasharp.3.119.1.nupkg.sha512",
+    "C:\\Users\\Praveengouda R\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.1\\skiasharp.nativeassets.macos.3.119.1.nupkg.sha512",
+    "C:\\Users\\Praveengouda R\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.1\\skiasharp.nativeassets.win32.3.119.1.nupkg.sha512"
+  ],
+  "logs": []
+}
