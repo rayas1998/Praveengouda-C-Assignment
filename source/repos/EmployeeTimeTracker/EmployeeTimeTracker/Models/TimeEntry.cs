@@ -13,6 +13,6 @@ namespace EmployeeTimeTracker.Models
         public string StarTimeUtc { get; set; }
         public string EndTimeUtc { get; set; }
         public string EntryNotes { get; set; }
-        public string DeletedOn { get; set; }
+        
     }
 }
